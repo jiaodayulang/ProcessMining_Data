@@ -1,0 +1,147 @@
+Case_Id,Activity,Eventtime,Location,Delivery Compant,Subprocess
+001,Submit Order,"Monday, June 5, 2023, 8:42:00 PM",,,
+001,Complete Packing,"Tuesday, June 6, 2023, 4:49:00 AM",,,
+001,Create Shipment,"Tuesday, June 6, 2023, 12:08:00 PM",,,
+001,Ship Order,"Tuesday, June 6, 2023, 12:20:00 PM",,,
+001,Arrive at Airport (CN),"Wednesday, June 7, 2023, 10:30:00 PM",,,Air Freight Processing
+001,Flight Departure,"Thursday, June 8, 2023, 7:27:00 AM",,,Air Freight Processing
+001,Arrive at Airport (AU),"Thursday, June 8, 2023, 12:10:00 PM",,,Air Freight Processing
+001,Customs Clearance Completed,"Thursday, June 8, 2023, 1:10:00 PM",,,Air Freight Processing
+001,Pick up Parcel,"Friday, June 9, 2023, 6:17:00 PM",,AUPost,Delivery (AU)
+001,Onboard for Delivery,"Wednesday, June 14, 2023, 7:02:00 AM",CHULLORA NSW,AUPost,Delivery (AU)
+001,Delivered to Customer,"Wednesday, June 14, 2023, 9:29:00 AM",SYDNEY,AUPost,Delivery (AU)
+002,Submit Order,"Wednesday, November 15, 2023, 7:42:00 PM",,,
+002,Complete Packing,"Thursday, November 16, 2023, 5:04:00 AM",,,
+002,Create Shipment,"Thursday, November 16, 2023, 10:13:00 AM",,,
+002,Ship Order,"Thursday, November 16, 2023, 12:09:00 PM",,,
+002,Arrive at Airport (CN),"Saturday, November 18, 2023, 8:53:00 PM",,,Air Freight Processing
+002,Flight departure,"Sunday, November 19, 2023, 4:31:00 AM",,,Air Freight Processing
+002,Arrive at Airport (AU),"Sunday, November 19, 2023, 12:39:00 PM",,,Air Freight Processing
+002,Customs Clearance Completed,"Monday, November 20, 2023, 6:18:00 AM",,,Air Freight Processing
+002,Pick up Parcel,"Monday, November 20, 2023, 12:38:00 PM",SYD,PFL,Delivery (AU)
+002,in Transit to next facitlity,"Wednesday, November 22, 2023, 3:35:00 AM",Sydney,PFL,Delivery (AU)
+002,Onboard for Delivery,"Thursday, November 23, 2023, 7:10:00 AM",Sydney,PFL,Delivery (AU)
+002,Delivered to Customer,"Thursday, November 23, 2023, 2:09:00 PM",Sydney,PFL,Delivery (AU)
+003-a,Submit Order,"Sunday, November 26, 2023, 5:01:00 PM",,,
+003-a,Complete Packing,"Monday, November 27, 2023, 1:47:00 AM",,,
+003-a,Create Shipment,"Monday, November 27, 2023, 4:26:00 AM",,,
+003-a,Ship Order,"Monday, November 27, 2023, 5:59:00 AM",,,
+003-a,Arrive at Airport (CN),"Tuesday, November 28, 2023, 5:31:00 AM",,,Air Freight Processing
+003-a,Flight departure,"Thursday, November 30, 2023, 4:26:00 AM",,,Air Freight Processing
+003-a,Arrive at Airport (AU),"Thursday, November 30, 2023, 1:23:00 PM",,,Air Freight Processing
+003-a,Customs Clearance Completed,"Friday, December 1, 2023, 4:45:00 AM",,,Air Freight Processing
+003-a,Pick up Parcel,"Friday, December 1, 2023, 4:41:00 PM",SYD,PFL,Delivery (AU)
+003-a,Onboard for Delivery,"Saturday, December 2, 2023, 7:29:00 AM",NSW,PFL,Delivery (AU)
+003-a,Notify 2nd Delivery,"Sunday, December 3, 2023, 9:00:00 AM",NSW,PFL,Delivery (AU)
+003-a,Onboard for Delivery,"Monday, December 4, 2023, 7:03:00 AM",NSW,PFL,Delivery (AU)
+003-a,Delivered to Customer,"Monday, December 4, 2023, 1:40:00 PM",NSW,PFL,Delivery (AU)
+003-b,Submit Order,"Sunday, November 26, 2023, 5:01:00 PM",,,
+003-b,Complete Packing,"Monday, November 27, 2023, 1:08:00 AM",,,
+003-b,Create Shipment,"Monday, November 27, 2023, 5:20:00 AM",,,
+003-b,Ship Order,"Monday, November 27, 2023, 5:52:00 AM",,,
+003-b,Arrive at Airport (CN),"Tuesday, November 28, 2023, 4:23:00 PM",,,Air Freight Processing
+003-b,Flight Departure,"Wednesday, November 29, 2023, 11:41:00 AM",,,Air Freight Processing
+003-b,Arrive at Airport (AU),"Wednesday, November 29, 2023, 9:03:00 PM",,,Air Freight Processing
+003-b,Customs Clearance Completed,"Saturday, December 2, 2023, 12:00:00 PM",,,Air Freight Processing
+003-b,Pick up Parcel,"Saturday, December 2, 2023, 11:31:00 PM",Sydney Center,iMile,Delivery (AU)
+003-b,Onboard for Delivery,"Monday, December 4, 2023, 11:17:00 AM","ST LEONARDS,NSW,2065",iMile,
+003-b,Delivered to Customer,"Monday, December 4, 2023, 2:21:00 PM","ST LEONARDS,NSW,2065",iMile,
+004-a,Submit Order,"Monday, November 27, 2023, 9:04:00 PM",,,
+004-a,Complete Packing,"Tuesday, November 28, 2023, 5:18:00 AM",,,
+004-a,Create Shipment,"Tuesday, November 28, 2023, 8:04:00 AM",,,
+004-a,Ship Order,"Tuesday, November 28, 2023, 8:55:00 AM",,,
+004-a,Arrive at Airport (CN),"Wednesday, November 29, 2023, 4:13:00 PM",,,Air Freight Processing
+004-a,Flight Departure,"Thursday, November 30, 2023, 4:26:00 AM",,,Air Freight Processing
+004-a,Customs Clearance Completed,"Thursday, November 30, 2023, 12:55:00 PM",,,Air Freight Processing
+004-a,Arrive at Airport (AU),"Thursday, November 30, 2023, 1:23:00 PM",,,Air Freight Processing
+004-a,Pick up Parcel,"Sunday, December 3, 2023, 12:09:00 AM",GRANVILLE NSW,AuPost,Delivery (AU)
+004-a,in Transit to next facitlity,"Sunday, December 3, 2023, 12:22:00 AM",GRANVILLE NSW,AuPost,Delivery (AU)
+004-a,in Transit_Process Parcel,"Sunday, December 3, 2023, 5:16:00 PM",STRATHFIELD NSW,AuPost,Delivery (AU)
+004-a,in Transit to next facitlity 2,"Sunday, December 3, 2023, 5:32:00 PM",STRATHFIELD NSW,AuPost,Delivery (AU)
+004-a,Onboard for Delivery,"Monday, December 4, 2023, 5:18:00 AM",NORTH SYDNEY NSW,AuPost,Delivery (AU)
+004-a,Delivered to Customer,"Monday, December 4, 2023, 7:39:00 AM",NORTH SYDNEY NSW,AuPost,Delivery (AU)
+004-b,Submit Order,"Monday, November 27, 2023, 9:04:00 PM",,,
+004-b,Complete Packing,"Tuesday, November 28, 2023, 7:34:00 AM",,,
+004-b,Create Shipment,"Tuesday, November 28, 2023, 12:35:00 PM",,,
+004-b,Ship Order,"Tuesday, November 28, 2023, 1:48:00 PM",,,
+004-b,Arrive at Airport (CN),"Thursday, November 30, 2023, 10:27:00 PM",,,Air Freight Processing
+004-b,Flight departure,"Friday, December 1, 2023, 8:15:00 PM",,,Air Freight Processing
+004-b,Arrive at Airport (AU),"Saturday, December 2, 2023, 10:13:00 AM",,,Air Freight Processing
+004-b,Customs Clearance Completed,"Sunday, December 3, 2023, 12:30:00 PM",,,Air Freight Processing
+004-b,Pick up Parcel,"Monday, December 4, 2023, 12:39:00 PM",SYD,PFL,Delivery (AU)
+004-b,in Transit to next facitlity,"Tuesday, December 5, 2023, 3:00:00 AM",NSW,PFL,Delivery (AU)
+004-b,Onboard for Delivery,"Monday, December 18, 2023, 7:19:00 AM",NSW,PFL,Delivery (AU)
+004-b,Delivered to Customer,"Monday, December 18, 2023, 2:26:00 PM",NSW,PFL,Delivery (AU)
+005,Submit Order,"Saturday, December 2, 2023, 10:09:00 PM",,,
+005,Complete Packing,"Sunday, December 3, 2023, 10:28:00 AM",,,
+005,Create Shipment,"Sunday, December 3, 2023, 3:01:00 PM",,,
+005,Ship Order,"Sunday, December 3, 2023, 4:57:00 PM",,,
+005,Arrive at Airport (CN),"Wednesday, December 6, 2023, 5:10:00 PM",,,Air Freight Processing
+005,Flight departure,"Friday, December 8, 2023, 12:01:00 AM",,,Air Freight Processing
+005,Arrive at Airport (AU),"Friday, December 8, 2023, 11:36:00 AM",,,Air Freight Processing
+005,Customs Clearance Completed,"Saturday, December 9, 2023, 6:25:00 PM",,,Air Freight Processing
+005,Pick up Parcel,"Sunday, December 10, 2023, 4:53:00 PM",SYD,PFL,Delivery (AU)
+005,in Transit to next facitlity,"Monday, December 11, 2023, 1:18:00 AM",NSW,PFL,Delivery (AU)
+005,Onboard for Delivery,"Monday, December 18, 2023, 7:19:00 AM",NSW,PFL,Delivery (AU)
+005,Delivered to Customer,"Monday, December 18, 2023, 2:27:00 PM",NSW,PFL,Delivery (AU)
+006,Submit Order,"Thursday, December 21, 2023, 11:02:00 PM",,,
+006,Complete Packing,"Friday, December 22, 2023, 4:32:00 PM",,,
+006,Create Shipment,"Saturday, December 23, 2023, 2:18:00 AM",,,
+006,Ship Order,"Saturday, December 23, 2023, 4:31:00 AM",,,
+006,Arrive at Airport (CN),"Sunday, December 24, 2023, 2:22:00 PM",,,Air Freight Processing
+006,Flight departure,"Monday, December 25, 2023, 9:28:00 PM",,,Air Freight Processing
+006,Customs Clearance Completed,"Tuesday, December 26, 2023, 4:19:00 AM",,,Air Freight Processing
+006,Arrive at Airport (AU),"Tuesday, December 26, 2023, 7:19:00 AM",,,Air Freight Processing
+006,Pick up Parcel,"Thursday, December 28, 2023, 3:21:00 PM",CHULLORA NSW,Aupost,Delivery (AU)
+006,in Transit to next facitlity,"Thursday, December 28, 2023, 4:38:00 PM",CHULLORA NSW,Aupost,Delivery (AU)
+006,Onboard for Delivery,"Friday, December 29, 2023, 7:34:00 AM",MACQUARIE PARK NSW,Aupost,Delivery (AU)
+006,Delivered to Customer,"Friday, December 29, 2023, 8:38:00 AM",NORTH SYDNEY NSW,Aupost,Delivery (AU)
+007,Submit Order,"Sunday, December 24, 2023, 12:36:00 AM",,,
+007,Complete Packing,"Sunday, December 24, 2023, 10:28:00 PM",,,
+007,Create Shipment,"Monday, December 25, 2023, 4:31:00 AM",,,
+007,Ship Order,"Monday, December 25, 2023, 5:29:00 AM",,,
+007,Arrive at Airport (CN),"Monday, December 25, 2023, 5:24:00 PM",,,Air Freight Processing
+007,Flight departure,"Tuesday, December 26, 2023, 9:24:00 PM",,,Air Freight Processing
+007,Arrive at Airport (AU),"Wednesday, December 27, 2023, 7:10:00 AM",,,Air Freight Processing
+007,Customs Clearance Completed,"Wednesday, December 27, 2023, 9:47:00 AM",,,Air Freight Processing
+007,Pick up Parcel,"Friday, December 29, 2023, 1:29:00 PM",Sydney,iMile,Delivery (AU)
+007,Onboard for Delivery,"Saturday, December 30, 2023, 12:15:00 PM",NORTH SYDNEY NSW,iMile,Delivery (AU)
+007,Delivered to Customer,"Thursday, February 1, 2024, 4:11:00 PM",NORTH SYDNEY NSW,iMile,Delivery (AU)
+008,Submit Order,"Sunday, December 24, 2023, 12:36:00 AM",,,
+008,Complete Packing,"Sunday, December 24, 2023, 10:28:00 PM",,,
+008,Create Shipment,"Monday, December 25, 2023, 4:31:00 AM",,,
+008,Ship Order,"Monday, December 25, 2023, 5:29:00 AM",,,
+008,Arrive at Airport (CN),"Monday, December 25, 2023, 5:24:00 PM",,,Air Freight Processing
+008,Flight departure,"Tuesday, December 26, 2023, 9:24:00 PM",,,Air Freight Processing
+008,Arrive at Airport (AU),"Wednesday, December 27, 2023, 7:10:00 AM",,,Air Freight Processing
+008,Customs Clearance Completed,"Wednesday, December 27, 2023, 9:47:00 AM",,,Air Freight Processing
+008,Pick up Parcel,"Friday, December 29, 2023, 1:29:00 PM","ST LEONARDS,NSW,2065",Aupost,Delivery (AU)
+008,Onboard for Delivery,"Saturday, December 30, 2023, 12:15:00 PM","ST LEONARDS,NSW,2065",Aupost,Delivery (AU)
+008,Delivered to Customer,"Tuesday, January 2, 2024, 4:11:00 PM","ST LEONARDS,NSW,2065",Aupost,Delivery (AU)
+009,Submit Order,"Thursday, December 28, 2023, 11:29:00 PM",,,
+009,Complete Packing,"Friday, December 29, 2023, 3:43:00 PM",,,
+009,Create Shipment,"Friday, December 29, 2023, 11:57:00 PM",,,
+009,Ship Order,"Saturday, December 30, 2023, 4:25:00 AM",,,
+009,Arrive at Airport (CN),"Sunday, December 31, 2023, 1:00:00 AM",,,Air Freight Processing
+009,Flight departure,"Sunday, December 31, 2023, 5:56:00 PM",,,Air Freight Processing
+009,Customs Clearance Completed,"Monday, January 1, 2024, 1:00:00 PM",,,Air Freight Processing
+009,Arrive at Airport (AU),"Monday, January 1, 2024, 4:59:00 PM",,,Air Freight Processing
+009,Pick up Parcel,"Wednesday, January 3, 2024, 4:50:00 PM",CHULLORA NSW,Aupost,Delivery (AU)
+009,Onboard for Delivery,"Thursday, January 4, 2024, 7:53:00 AM",MACQUARIE PARK NSW,Aupost,Delivery (AU)
+009,Delivered to Customer,"Thursday, January 4, 2024, 9:18:00 AM",NORTH SYDNEY NSW,Aupost,Delivery (AU)
+010,Submit Order,"Monday, December 25, 2023, 5:49:00 PM",,,
+010,Complete Packing,"Tuesday, December 26, 2023, 6:03:00 PM",,,
+010,Create Shipment,"Tuesday, December 26, 2023, 9:16:00 PM",,,
+010,Ship Order,"Tuesday, December 26, 2023, 11:08:00 PM",,,
+010,Arrive at Airport (CN),"Friday, December 29, 2023, 5:51:00 PM",,,Air Freight Processing
+010,Flight departure,"Saturday, December 30, 2023, 5:34:00 AM",,,Air Freight Processing
+010,Customs Clearance Completed,"Saturday, December 30, 2023, 12:32:00 PM",,,Air Freight Processing
+010,Arrive at Airport (AU),"Saturday, December 30, 2023, 2:37:00 PM",,,Air Freight Processing
+010,Pick up Parcel,"Tuesday, January 2, 2024, 8:13:00 PM",GRANVILLE NSW,Aupost,Delivery (AU)
+010,in Transit to next facitlity,"Tuesday, January 2, 2024, 8:23:00 PM",GRANVILLE NSW,Aupost,Delivery (AU)
+010,in Transit_Process Parcel,"Wednesday, January 3, 2024, 2:04:00 AM",STRATHFIELD NSW,Aupost,Delivery (AU)
+010,in Transit to next facitlity 2,"Wednesday, January 3, 2024, 2:23:00 AM",STRATHFIELD NSW,Aupost,Delivery (AU)
+010,in Transit_Process Parcel,"Wednesday, January 3, 2024, 4:39:00 AM",STRATHFIELD NSW,Aupost,Delivery (AU)
+010,in Transit to next facitlity 3,"Wednesday, January 3, 2024, 5:11:00 AM",STRATHFIELD NSW,Aupost,Delivery (AU)
+010,Onboard for Delivery,"Wednesday, January 3, 2024, 7:30:00 AM",MACQUARIE PARK NSW,Aupost,Delivery (AU)
+010,Delivered to Customer,"Wednesday, January 3, 2024, 9:03:00 AM",NORTH SYDNEY NSW,Aupost,Delivery (AU)
